@@ -40,9 +40,37 @@ At the core, I'm a **builder** - but I bring more than just code to the table:
 
 ## Featured Projects
 
-- **[BizScanner](https://bizscanner.app)** – Automated SMB audit tool with PDF reports, Stripe integration, and scoring  
-- **API Mapper** – Lightweight observability & monitoring layer for fast backend insight  
-- **Valuation Tool** – Real estate property assessment with forms, workflows, and report automation
+### [BizScanner](https://bizscanner.app)
+**Automated Local Business Audit SaaS**  
+An AI-powered tool that generates PDF reports for SMBs analyzing their SEO, online presence, and customer engagement. Features include automated checks, dynamic scoring, Stripe payments, and lead-focused design.  
+> `Tech:` FastAPI · Supabase · Next.js · Tailwind · Stripe · PDFKit
+
+---
+
+### API Mapper
+**Zero-Config API Observability Middleware**  
+A developer tool for auto-discovering and monitoring FastAPI endpoints with live metrics, logs, and user-triggered trace playback. Designed for both engineers and product managers to gain insight into API health.  
+> `Tech:` FastAPI · PostgreSQL · Redis · WebSocket · Chart.js
+
+---
+
+### Valuation Tool
+**Real Estate Property Assessment System**  
+Form-driven inspection app with customizable workflows, multi-role access, and automated PDF reports tailored for valuation firms. Includes data syncing, activity tracking, and audit-ready export logs.  
+> `Tech:` FastAPI · React · PostgreSQL · AWS S3 · CloudFront
+
+---
+
+### FloatPost.ai
+**Smart Social Media Post Management for Businesses**  
+A SaaS platform to simplify and automate social media post scheduling, engagement tracking, and audience interaction. Features include:
+- Post Scheduling & Automation across multiple platforms  
+- Comment Tracking with Sentiment Analysis  
+- Automated Response System to boost engagement  
+- Content Insights via AI-driven analytics  
+
+Ideal for small businesses and social teams aiming to improve social media ROI with minimal manual work.  
+> `Tech:` Next.js · FastAPI · Supabase · OpenAI · Tailwind  
 
 ---
 
