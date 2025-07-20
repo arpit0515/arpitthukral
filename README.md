@@ -12,7 +12,7 @@ At the core, I'm a **builder** - but I bring more than just code to the table:
 - Led cross-functional teams (engineering, QA, product) across time zones  
 - Managed full product roadmaps, delivery cycles, and backlog grooming  
 - Collaborated directly with clients and stakeholders to scope, prioritize, and iterate fast  
-- 🛠Owned vendor relationships, external team handoffs, and architecture reviews  
+- Owned vendor relationships, external team handoffs, and architecture reviews  
 - Built and scaled remote teams using **Agile, JIRA, Confluence, Slack**  
 - Presented engineering progress in **board meetings, investor audits, and demos**
 
