@@ -2,7 +2,10 @@
 # 👋 I am Arpit Thukral
 
 **Full-Stack Engineering Leader · Cloud Architect · Hands-on first**  
-13+ years building scalable cloud systems and shipping production SaaS.
+15+ years building scalable cloud systems and shipping production SaaS.
+
+<img width="130" height="130" alt="claude-certified-associate-foundations" src="https://github.com/user-attachments/assets/c87c7962-eb5a-46ee-8fe9-d4a1bd364223" />
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
